@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](/assets/images/screenshot.jpeg)
+![challenge screenshot](/assets/images/screenshot.jpeg)
 
 ### Links
 
